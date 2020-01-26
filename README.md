@@ -1,1 +1,12 @@
 # EV3-project
+
+## Introduction
+The University Natural Disaster Search and Rescue Service (UNDSRS) is the first responders in natural disasters in the city and metropolitan areas. The primary objective of UNDSRS is to search and retrieve survivors in high density areas where imminent shockwave or secondary events may be underway and terrain or infrastructure has been severely compromised. The UNDSRS teams handle search and rescue for persons trapped around infrastructure, residential housing and complexes, commercial offices and industrial areas.
+
+UNDSRS is a small specialised team that utilises cutting edge technology to perform search and rescue missions. Due to the increased demand from international partners, a research and development grant has been awarded to develop an unmanned vehicle to assist in search and rescue operations. The vehicle will autonomously perform the search portion of the mission and relay the location any survivors to specialised team. The specialised team will dispatch supplies and rescue crew to extract the survivors. The Lego Mindstorm EV3 kit has been chosen as a prototype for the vehicle which will be then be manufactured (and scaled accordingly) to the third party contractors.
+
+Your client is UNDSRS. With the goal of providing adequate reliable of service for the demand, UNDSRS hires you to develop a prototype of the unmanned vehicle using the Lego Mindstorm EV3 kit (called a rescue robot). The rescue robot will be equipped to detect, record, and navigate with on-board sensors. It is important that all objects (e.g., debris) are identified and recorded clearly on a map in real-time. UNDSRS will be using their proprietary GPS painting technology to mark the bounding box of the survey area. The rescue robot should search the survivors within the specified area unless directed otherwise.
+
+
+You will be provided a Lego Mindstorm EV3 Kit that best represents the UNDSRS budget and capabilities of a rescue robot that UNDSRS can manufacture. UNDSRS is aware that the kit does not contain the proprietary GPS painting technology or a live stream video camera. However, UNDSRS requires you to demonstrate the capability of your solution with the available sensors. You are allowed to assemble the components in the best possible arrangement. You should stick to the components within the Lego kit otherwise UNDSRS may not be able to reproduce the vehicle at scale.
+
